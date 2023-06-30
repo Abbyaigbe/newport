@@ -184,21 +184,21 @@ input::placeholder {
     position: relative;
 }
 .about_info h1{
-    font-size: 50px;
+    font-size: 30px;
     color: var(--textColor);
     font-weight: bold;
 }
 .about_info p{
-    padding-top:25px;
-    padding-left: 90px;
-    font-size: 25px;
+    padding-top:20px;
+    padding-left: 80px;
+    font-size: 20px;
     color:var(--textColor);
 }
 .about_info p::before{
     content:"";
     position: absolute;
     left: 0;
-    width: 70px;
+    width: 60px;
     border: 2px solid var(--secondary);
     margin-top: 15px;
 }
