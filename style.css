@@ -106,19 +106,19 @@ input::placeholder {
 }
 
 .col_hero_info h1 {
-    font-size: 20px;
+    font-size: 15px;
     color: white;
 }
 
 .col_hero_info span {
-    font-size: 60px;
+    font-size: 50px;
     color: var(--secondary);
 }
 
 .col_hero_info p {
-    font-size: 20px;
+    font-size: 15px;
     color: #fff;
-    width: 400px;
+    width: 350px;
     padding: 20px 10px;
 }
 
