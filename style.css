@@ -106,20 +106,20 @@ input::placeholder {
 }
 
 .col_hero_info h1 {
-    font-size: 30px;
+    font-size: 20px;
     color: white;
 }
 
 .col_hero_info span {
-    font-size: 70px;
+    font-size: 60px;
     color: var(--secondary);
 }
 
 .col_hero_info p {
-    font-size: 25px;
+    font-size: 20px;
     color: #fff;
     width: 400px;
-    padding: 20px 0px;
+    padding: 20px 10px;
 }
 
 .btn {
